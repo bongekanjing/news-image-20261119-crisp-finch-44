@@ -1,0 +1,148 @@
+{
+  "day": "Thursday 19 November 2026",
+  "dateline": "19 NOVEMBER 2026",
+  "lead": {
+    "kicker": "APEC · SHENZHEN",
+    "region": "ASIA-PACIFIC",
+    "headline": "Trump, Xi and Putin sit down together for the first time",
+    "standfirst": "The three leaders met on Thursday at the APEC summit in Shenzhen, with Ukraine, Iran, trade, AI and nuclear arms on the agenda. Xi Jinping opened the day by pledging $20m to the forum and a research centre in the city, telling members they were “passengers riding the same ship”.",
+    "art": "summit"
+  },
+  "second": [
+    {
+      "region": "MIDDLE EAST",
+      "headline": "Iran hits US sites in Kuwait as the Gulf war widens",
+      "dek": "Tehran called its strikes on drone and missile sites self-defence, after a US attack on Qeshm Island. Bahrain activated air defences and Kuwait reported intercepting drones.",
+      "art": "bars"
+    },
+    {
+      "region": "EUROPE",
+      "headline": "EU proposes a €45bn loan Kyiv repays after reparations",
+      "dek": "Von der Leyen's plan borrows on the markets: €25bn for arms, €20bn for the budget, serviced from profits on frozen Russian assets.",
+      "art": "donut"
+    }
+  ],
+  "briefs": [
+    {
+      "region": "MIDDLE EAST",
+      "headline": "Israeli tanks cross the Yellow Line into central Gaza",
+      "dek": "The army said it struck a tunnel near Nuseirat. Hamas called the move a breach of the October 2025 truce."
+    },
+    {
+      "region": "MIDDLE EAST",
+      "headline": "Amnesty seeks a war-crimes inquiry into RSF drone strikes",
+      "dek": "Nine strikes on El Obeid between June and August killed 37 civilians, the rights group said."
+    },
+    {
+      "region": "MIDDLE EAST",
+      "headline": "Egypt and Syria move to restore direct flights",
+      "dek": "The two sides signed an operations protocol at ICAO in Montreal, 14 years after the air link was cut."
+    },
+    {
+      "region": "EUROPE",
+      "headline": "Ukrainian drones cut more than half of Russia's refining",
+      "dek": "Output has fallen below July's crisis levels, an analyst said, as Putin told APEC that sanctions had been beaten."
+    },
+    {
+      "region": "EUROPE",
+      "headline": "Berlin presses to make Ukraine aid ‘Le Pen-proof’",
+      "dek": "Germany wants future increases locked into the EU budget so that no single capital can veto them."
+    },
+    {
+      "region": "EUROPE",
+      "headline": "‘Feudal’ leasehold to be scrapped in England and Wales",
+      "dek": "Ministers set out plans to end the system for millions of flat and house owners."
+    },
+    {
+      "region": "ASIA-PACIFIC",
+      "headline": "China and South Korea close services and investment talks",
+      "dek": "Seoul's media, gaming and travel stocks jumped as much as 30% on a deal nine years in the making."
+    },
+    {
+      "region": "ASIA-PACIFIC",
+      "headline": "Magnitude 5.7 quake shakes Kumamoto and injures two",
+      "dek": "The shock came at 2.22am local time at a lower-5 intensity. No tsunami warning was issued."
+    },
+    {
+      "region": "AFRICA",
+      "headline": "Ethiopia and Eritrea mass troops along their border",
+      "dek": "Monitors reported artillery near Badme. Eritrea denies intervening in Tigray and accuses Addis Ababa of seeking a pretext."
+    },
+    {
+      "region": "AFRICA",
+      "headline": "Ghana's central bank cuts its rate 300bp to 11%",
+      "dek": "The Bank of Ghana called the move a realignment. It is the lowest policy rate in 15 years."
+    },
+    {
+      "region": "AFRICA",
+      "headline": "Senegal's ruling party expels President Faye",
+      "dek": "Pastef moved against Bassirou Diomaye Faye, months after he dissolved the national assembly."
+    },
+    {
+      "region": "AFRICA",
+      "headline": "Nigeria ties oil exports to its currency inflows",
+      "dek": "The central bank and the state oil company will coordinate on export proceeds and lift crude output toward 3m barrels a day."
+    },
+    {
+      "region": "AFRICA",
+      "headline": "JSE slumps 3.66% as gold and the rand slide",
+      "dek": "Johannesburg's All Share closed at 106,572. October inflation rose to 5.2% before the Reserve Bank's decision."
+    },
+    {
+      "region": "AMERICAS",
+      "headline": "Brazil summons Argentina's envoy over Bolsonaro's flight",
+      "dek": "Flavio Bolsonaro travelled through Argentina before reaching the United States, and Brasilia demanded an explanation."
+    },
+    {
+      "region": "AMERICAS",
+      "headline": "Musk says he regrets $445m of midterm spending",
+      "dek": "At DealBook he said he felt “pretty foolish” and that he was not MAGA, after Democrats swept both chambers."
+    },
+    {
+      "region": "AMERICAS",
+      "headline": "Trump said to be frustrated with Vance over Iran blame",
+      "dek": "The president has privately praised Marco Rubio, who defended the war, as Vance weighs a 2028 campaign."
+    },
+    {
+      "region": "AMERICAS",
+      "headline": "Colombia braces for a one-day national strike",
+      "dek": "Unions and opposition groups called stoppages in five cities, and the US embassy warned of travel disruption."
+    },
+    {
+      "region": "SOCIETY",
+      "headline": "Pew projects Muslims will outnumber Christians by 2035",
+      "dek": "Birth rates, not conversion, drive the shift to 2.57bn Muslims against 2.52bn Christians."
+    },
+    {
+      "region": "SOCIETY",
+      "headline": "Van Gogh evening scene sells for a record $190.4m",
+      "dek": "Sotheby's said the sale followed an eleventh-hour settlement with the heirs of a previous Jewish owner."
+    }
+  ],
+  "figures": [
+    {
+      "value": "€45bn",
+      "caption": "EU loan proposed for Kyiv"
+    },
+    {
+      "value": "55%",
+      "caption": "of Russian refining hit"
+    },
+    {
+      "value": "3.66%",
+      "caption": "fall in the JSE index"
+    },
+    {
+      "value": "$190.4m",
+      "caption": "record Van Gogh sale"
+    },
+    {
+      "value": "M5.7",
+      "caption": "quake shakes Kumamoto"
+    },
+    {
+      "value": "300bp",
+      "caption": "Ghana rate cut, to 11%"
+    }
+  ]
+}
